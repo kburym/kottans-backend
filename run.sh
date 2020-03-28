@@ -1,0 +1,1 @@
+node ./baby-steps/program.js 100 200 300
